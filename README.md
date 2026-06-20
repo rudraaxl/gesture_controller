@@ -1,4 +1,4 @@
-# GestureAI
+# Gesture
 
 Real-time hand gesture control for mouse movement, clicks, slide navigation, and optional system volume.
 
